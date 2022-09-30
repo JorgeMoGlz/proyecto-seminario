@@ -2,3 +2,6 @@ https://machinelearningmastery.com/model-averaging-ensemble-for-deep-learning-ne
 
 Más importante
 https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+
+Aún más importante
+https://stackoverflow.com/questions/69906416/forecast-future-values-with-lstm-in-python
